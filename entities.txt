@@ -1,0 +1,15 @@
+10 73 Gurunath-store
+10 77 Karur-Vyasa-Bank
+17 69 Department-of-Information-Technology 
+20 55 Coffee-shop
+20 14 National-centre-for-sustainable-coastal
+19 80 Ladies-Hostel
+24 45 Hostel
+29 36 Institute-of-ocean-management
+33 56 Swimming-pool
+36 64 Centre-for-international-affairs
+33 80 Vivekananda-Auditorium
+37 56 Department-of-Geology
+42 69 Traffic-Island-Park
+38 9 Department-of-Mechanical-Engineering
+52 14 Indian-bank-Dote

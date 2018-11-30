@@ -1,0 +1,41 @@
+###########################################################################
+#                                        									#
+#	    						Road	Mapper			  					#
+#																			#
+###########################################################################
+This program is just a implementation of Dijkstra algorithm. We 
+used STL for simplification of the functions and process.
+
+How the project is structured is
+	* 3 header files
+		* maptograph.h
+		* filereader.h
+		* routingfunction.h
+	*Main.cpp
+
+The program takes input through inputfile. The output is displayed in console.
+
+Working
+=======
+	The working of the program is that the user enters the s-starting and t-target
+in the userhand.txt. The only limitation is that the program still works for division 
+of road, not for any location of the map. 
+	When the user enters the s and t in appropriate location. Then the user enters the
+1 in console, then it prints the shortest path from s and t in the console using the 
+following symbols for directions(^,V,>,<). The symbol appears for each division with 
+appropriate directions.
+	
+	The path that it shows is the shortest path in the map.
+
+Uses
+====
+	*The map used is a part of CEG map.
+
+	*Finds quickly shortest path
+
+Future Developments
+===================
+	* Use of GUI is possible
+
+	* Finding path from any location to any other location in the map
+	
